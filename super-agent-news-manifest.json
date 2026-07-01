@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[securityaffairs.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)",
+    "[ndtvprofit.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjU5NV8wbzNQVFZGQTZFNGFZd3F0Y3Y2QllNZUFIQVd4WHIyMTlLa0dFaXhTcHpFcFk5OEJfcWFqMnpNZUR1QmZkcE1jc3M3ZWNKaE51S0VsOGE2THJXUXhhWXUtdFFnMW9jd2dXQVpINUFldjkzLXZEZ1NTVmdraUZXZi1fSXlkNk9LdTNia2F2MDVJc0t2ekNBVVdZY2gyenZmR1VEdjlLVlNhbGNMd0NpYTVhRGFnSERYVVF1Xy1iYmvSAcsBQVVfeXFMT2hCMTdSSXE4dF9LNnMtQXVfX0E2RTBadVd3dVZxeE5mME45dEp6S00wSVlEcnctUVBOWWNTS2JqbnFQY2hKNmR2RDhBVlJCMDhoQURJY2JFdmVsOHJxQWJLUlJuUDJ2U2M1LTdnZU5IV3JhTVFtcWM0ell1Q3RaeVhsa2psTXZrU2hjbE5UOFZzTzZvVEVUV2Fyc1F4eVFmM3hKWklwNS1QcWRsWF9nOGlrc0J4cGFDT3ZTcHZsWWFyR2gxcHpTXzNIblk)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4)"
+  ],
+  "design_plan": "rng=42; AIDA validated; hero max-width math ~1120px => 2\u20133 lines; bento + compare grids use grid-auto-flow:dense; button contrast checked on #0a0a0a/#fff; ambient layers fixed; GSAP guarded.",
+  "generated_at": "2026-07-01T10:22:26.555464+00:00",
+  "headline": "Super vs Folk \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, source\u2011grounded comparison of Super and Folk for people evaluating personal AI agents. Folk sits within the broader automation and agent conversation; Super is purpose\u2011built for real computer\u2011use workflows, with a reusable computer-use cache that makes repeated work cheaper and more reliable over time."
+}
